@@ -1,4 +1,4 @@
-# Scraping Toy Cars with python.
+# Scraping Jumia Products with python.
 The goal of this project is to extract cars information from the wellydiecast to create a clean dataset which can be use for Data Analysis in the future. 
 This project is for Experienced scraper, who can contribute to improve the code in the project.
 
